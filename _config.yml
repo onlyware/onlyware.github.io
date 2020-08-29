@@ -1,0 +1,9 @@
+name: OnlyWare
+url: http://example.org
+description: 
+
+permalink: /:categories/:title/
+paginate: 10
+
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
